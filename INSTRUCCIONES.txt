@@ -1,0 +1,31 @@
+MAPA CONCEPTUAL · DOCE DESTREZAS DE RESOLUCIÓN DE CONFLICTOS
+
+ABRIR EN TU PC
+1. Extrae todo el ZIP.
+2. Abre index.html con Chrome, Edge o Firefox. No necesitas instalar nada.
+3. Conserva styles.css, script.js y assets junto a index.html.
+
+DESDE VS CODE
+Abre la carpeta del proyecto y una terminal. Ejecuta:
+python -m http.server 5500
+Abre http://localhost:5500 y conserva la terminal abierta.
+
+PUBLICAR EN GITHUB PAGES
+1. Crea un repositorio público.
+2. Sube el contenido de esta carpeta: index.html debe quedar en la raíz,
+   junto a styles.css, script.js, INSTRUCCIONES.txt y la carpeta assets.
+   No subas solamente el ZIP ni una carpeta que encierre todo el proyecto.
+3. En Settings > Pages selecciona Deploy from a branch, main y / (root).
+4. Guarda y espera que GitHub muestre el enlace de tu página.
+
+EDITAR
+index.html: mapa, explicaciones y referencias.
+styles.css: colores, diseño y adaptación a celular.
+script.js: abrir/cerrar nodos e imprimir.
+assets/doce_destrezas.pdf: lectura original.
+
+CONTENIDO
+Síntesis basada exclusivamente en el PDF proporcionado. Las cuatro ramas
+son una organización didáctica propia, no una clasificación del original.
+La numeración 1–12 sigue el documento. Se incluye su sección del juego.
+No se utilizan imágenes, fuentes remotas ni bibliotecas externas.
